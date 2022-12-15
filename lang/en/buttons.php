@@ -1,0 +1,20 @@
+<?php
+return [
+    'SAVE' => 'SAVE',
+    'Go to Back' => 'Go to Back',
+    'AVG Rating' => 'AVG Rating',
+    'Likes' => 'Likes',
+    'Not rated' => 'Not rated',
+    'ADD' => 'SEND',
+    'Clear' => 'Clear',
+    'Delete' => 'Delete',
+    'Edit' => 'Edit',
+    'Comments' => 'Comments',
+    'months' => 'months',
+    'Subscription' => 'Subscription',
+    'details' => 'Details',
+    'Copyright &copy; Your Website 2022' => 'Copyright Your Website 2022',
+    'Search' => 'Search',
+    'ban' => 'Ban',
+    'unban' => 'Unban',
+];
